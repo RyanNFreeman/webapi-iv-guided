@@ -4,7 +4,7 @@
   "description": "Guided project for **Web API IV** module.",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js",
+    "server": "nodemon",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
